@@ -1,5 +1,5 @@
-## Real Estate Valuation
-# Overview
+# Real Estate Valuation
+## Overview
 
 This project explores the factors that influence residential property values and uses machine learning to predict housing prices from real-world housing data.
 
